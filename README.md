@@ -16,4 +16,7 @@ Easily monitor LOG output for specified apk apps with adb logcat
 
 python3 DroidCat.py
 
+# 效果 #
+
+[运行效果](Image/perview.png)
 

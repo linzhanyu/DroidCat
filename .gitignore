@@ -1,5 +1,6 @@
 *.swp
 *.swo
+*.log
 __pycache__
 .DS_Store
 
