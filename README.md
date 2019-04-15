@@ -9,6 +9,7 @@ Easily monitor LOG output for specified apk apps with adb logcat
 # 配置开发环境 #
 
 * Python3
+* python3 -m pip install termcolor
 * 编辑 config.py 中的 Android SDK 路径 和 
 * 编辑 config.py 中的 AppName ( Apk 包名 )
 
