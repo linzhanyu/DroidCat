@@ -18,5 +18,5 @@ python3 DroidCat.py
 
 # 效果 #
 
-[运行效果](Image/perview.png)
+![运行效果](https://raw.githubusercontent.com/linzhanyu/DroidCat/master/Image/perview.png)
 
